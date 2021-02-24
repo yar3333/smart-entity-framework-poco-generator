@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartEntityFrameworkPocoGenerator", "SmartEntityFrameworkPocoGenerator.csproj", "{2961D3D1-8229-42B3-9A21-01F07C0E5B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2961D3D1-8229-42B3-9A21-01F07C0E5B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2961D3D1-8229-42B3-9A21-01F07C0E5B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF80789D-5465-48F9-B435-926B443A0EE7}
+	EndGlobalSection
+EndGlobal
