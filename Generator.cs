@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace SmartEntityFrameworkPocoGenerator
 {
-	class Generator
+	static class Generator
 	{
 		public static void run(ConnectionData connData, string destFolder, string ns, string contextClassName, IEnumerable<string> ignoreTables, IEnumerable<string> useTables, List<string> identities, List<string> forceFieldNames)
         {

@@ -3,7 +3,7 @@ using System.Data.Common;
 
 namespace SmartEntityFrameworkPocoGenerator
 {
-    abstract class BaseDatabaseConnection
+    abstract class BaseDatabaseConnection : IDisposable
     {
         protected DbConnection connection;
 
